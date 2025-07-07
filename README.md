@@ -5,8 +5,8 @@ I'm a Software Engineer specializing in web development
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my updated portfolio.
-- 🌱 I’m currently learning Spring Boot.
+- 🔭 I’m currently working on a personal project.
+- 🌱 I’m currently learning Turborepo
 - 💬 Ask me about website architecture and design. 
 - 📫 How to reach me: hello@abhirath.net.
 <!-- - ⚡ Fun fact: I've been programming since I was 10 years old
